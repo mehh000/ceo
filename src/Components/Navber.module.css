@@ -1,0 +1,23 @@
+.navber{
+    background: black;
+    height: 80px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.size_of_card{
+    background: red;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+.home{
+    margin-right: 60px;
+}
+.linktag{
+    /* text-decoration: none; */
+    color: white;
+}
